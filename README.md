@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Auwal Abubakar
 ===============================================================================================================================================
 
-Data Scientist
---------------
+I am a potential PhD student and Data Scientist
+-----------------------------------------------
 
-I am currently a fellow of Arewa Data Science and Machine Learning Academy.
+I am interested in NLP, and currently a fellow of Arewa Data Science and Machine Learning Academy.
 
 * 🌍  I'm based in Osun State, Nigeria
 * ✉️  You can contact me at [mauwal07@gmail.com](mailto:mauwal07@gmail.com)
