@@ -9,6 +9,7 @@ I am currently a fellow of Arewa Data Science and Machine Learning Academy.
 * 🌍  I'm based in Osun State, Nigeria
 * ✉️  You can contact me at [mauwal07@gmail.com](mailto:mauwal07@gmail.com)
 * 🧠  I'm learning Python, Data Science and Machine Learning
+* 🤝  I'm open to collaborating on NLP and ML projects
 
 ### Skills
 
